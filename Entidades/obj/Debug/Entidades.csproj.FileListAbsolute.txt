@@ -1,0 +1,5 @@
+C:\Users\Sapia\Desktop\Proyetos\Activos\AL-MAPLAST\Entidades\bin\Debug\Entidades.dll
+C:\Users\Sapia\Desktop\Proyetos\Activos\AL-MAPLAST\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Sapia\Desktop\Proyetos\Activos\AL-MAPLAST\Entidades\obj\Debug\Entidades.dll
+C:\Users\Sapia\Desktop\Proyetos\Activos\AL-MAPLAST\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Sapia\Desktop\Proyetos\Activos\AL-MAPLAST\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache

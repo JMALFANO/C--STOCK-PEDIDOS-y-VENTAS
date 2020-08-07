@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B35BEE2E-FFDC-4910-9FEB-2E3E9269FDC8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CapaPresentacion</RootNamespace>
+    <AssemblyName>CapaPresentacion</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminClientesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminClientesForm.Designer.cs">
+      <DependentUpon>AdminClientesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminProductosForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminProductosForm.Designer.cs">
+      <DependentUpon>AdminProductosForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminStockProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminStockProductos.Designer.cs">
+      <DependentUpon>AdminStockProductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminVentasForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminVentasForm.Designer.cs">
+      <DependentUpon>AdminVentasForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultaClientesConDeudaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultaClientesConDeudaForm.Designer.cs">
+      <DependentUpon>ConsultaClientesConDeudaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultaPedidosClientesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultaPedidosClientesForm.Designer.cs">
+      <DependentUpon>ConsultaPedidosClientesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultaPrestamosForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultaPrestamosForm.Designer.cs">
+      <DependentUpon>ConsultaPrestamosForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSeleccionarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSeleccionarCliente.Designer.cs">
+      <DependentUpon>FormSeleccionarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AdminClientesForm.resx">
+      <DependentUpon>AdminClientesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminProductosForm.resx">
+      <DependentUpon>AdminProductosForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminStockProductos.resx">
+      <DependentUpon>AdminStockProductos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminVentasForm.resx">
+      <DependentUpon>AdminVentasForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultaClientesConDeudaForm.resx">
+      <DependentUpon>ConsultaClientesConDeudaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultaPedidosClientesForm.resx">
+      <DependentUpon>ConsultaPedidosClientesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultaPrestamosForm.resx">
+      <DependentUpon>ConsultaPrestamosForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSeleccionarCliente.resx">
+      <DependentUpon>FormSeleccionarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaAccesoDatos\CapaAccesoDatos.csproj">
+      <Project>{45954764-6442-4bcf-b567-888b5615ab42}</Project>
+      <Name>CapaAccesoDatos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CapaNegocio\CapaNegocio.csproj">
+      <Project>{2d41df46-4419-4665-96d2-686e4d83fe8d}</Project>
+      <Name>CapaNegocio</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entidades\Entidades.csproj">
+      <Project>{c17cadbe-90a3-4a18-9f3c-1b6dc2b17e68}</Project>
+      <Name>Entidades</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

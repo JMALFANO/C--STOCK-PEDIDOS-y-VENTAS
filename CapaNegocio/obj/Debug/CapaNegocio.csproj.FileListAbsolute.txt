@@ -1,0 +1,9 @@
+C:\Users\Sapia\Desktop\Proyetos\Activos\AL-MAPLAST\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Sapia\Desktop\Proyetos\Activos\AL-MAPLAST\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Sapia\Desktop\Proyetos\Activos\AL-MAPLAST\CapaNegocio\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Sapia\Desktop\Proyetos\Activos\AL-MAPLAST\CapaNegocio\bin\Debug\Entidades.dll
+C:\Users\Sapia\Desktop\Proyetos\Activos\AL-MAPLAST\CapaNegocio\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Sapia\Desktop\Proyetos\Activos\AL-MAPLAST\CapaNegocio\bin\Debug\Entidades.pdb
+C:\Users\Sapia\Desktop\Proyetos\Activos\AL-MAPLAST\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Sapia\Desktop\Proyetos\Activos\AL-MAPLAST\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Sapia\Desktop\Proyetos\Activos\AL-MAPLAST\CapaNegocio\obj\Debug\CapaNegocio.pdb

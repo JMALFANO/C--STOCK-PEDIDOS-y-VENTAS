@@ -1,0 +1,27 @@
+C:\Users\Sapia\Desktop\ISTEA\1AÑO 2CUATRIMESTRE\PROGRAMACION 1\Unidad 9-10\Unidad 9\06-BibliotecaSQLServerStoredProcedure\BibliotecaApplication\bin\Debug\WindowsFormApplication.exe.config
+C:\Users\Sapia\Desktop\ISTEA\1AÑO 2CUATRIMESTRE\PROGRAMACION 1\Unidad 9-10\Unidad 9\06-BibliotecaSQLServerStoredProcedure\BibliotecaApplication\bin\Debug\WindowsFormApplication.exe
+C:\Users\Sapia\Desktop\ISTEA\1AÑO 2CUATRIMESTRE\PROGRAMACION 1\Unidad 9-10\Unidad 9\06-BibliotecaSQLServerStoredProcedure\BibliotecaApplication\bin\Debug\WindowsFormApplication.pdb
+C:\Users\Sapia\Desktop\ISTEA\1AÑO 2CUATRIMESTRE\PROGRAMACION 1\Unidad 9-10\Unidad 9\06-BibliotecaSQLServerStoredProcedure\BibliotecaApplication\obj\Debug\WindowsFormApplication.AdminProductosForm.resources
+C:\Users\Sapia\Desktop\ISTEA\1AÑO 2CUATRIMESTRE\PROGRAMACION 1\Unidad 9-10\Unidad 9\06-BibliotecaSQLServerStoredProcedure\BibliotecaApplication\obj\Debug\WindowsFormApplication.AdminClientesForm.resources
+C:\Users\Sapia\Desktop\ISTEA\1AÑO 2CUATRIMESTRE\PROGRAMACION 1\Unidad 9-10\Unidad 9\06-BibliotecaSQLServerStoredProcedure\BibliotecaApplication\obj\Debug\WindowsFormApplication.ConsultaEnPrestamoForm.resources
+C:\Users\Sapia\Desktop\ISTEA\1AÑO 2CUATRIMESTRE\PROGRAMACION 1\Unidad 9-10\Unidad 9\06-BibliotecaSQLServerStoredProcedure\BibliotecaApplication\obj\Debug\WindowsFormApplication.ConsultaLectoresSinLibrosForm.resources
+C:\Users\Sapia\Desktop\ISTEA\1AÑO 2CUATRIMESTRE\PROGRAMACION 1\Unidad 9-10\Unidad 9\06-BibliotecaSQLServerStoredProcedure\BibliotecaApplication\obj\Debug\WindowsFormApplication.MainForm.resources
+C:\Users\Sapia\Desktop\ISTEA\1AÑO 2CUATRIMESTRE\PROGRAMACION 1\Unidad 9-10\Unidad 9\06-BibliotecaSQLServerStoredProcedure\BibliotecaApplication\obj\Debug\WindowsFormApplication.ConsultaPrestamoAgrupadoForm.resources
+C:\Users\Sapia\Desktop\ISTEA\1AÑO 2CUATRIMESTRE\PROGRAMACION 1\Unidad 9-10\Unidad 9\06-BibliotecaSQLServerStoredProcedure\BibliotecaApplication\obj\Debug\AlmaPLASTApplication.csproj.GenerateResource.Cache
+C:\Users\Sapia\Desktop\ISTEA\1AÑO 2CUATRIMESTRE\PROGRAMACION 1\Unidad 9-10\Unidad 9\06-BibliotecaSQLServerStoredProcedure\BibliotecaApplication\obj\Debug\WindowsFormApplication.exe
+C:\Users\Sapia\Desktop\ISTEA\1AÑO 2CUATRIMESTRE\PROGRAMACION 1\Unidad 9-10\Unidad 9\06-BibliotecaSQLServerStoredProcedure\BibliotecaApplication\obj\Debug\WindowsFormApplication.pdb
+C:\Users\Sapia\Desktop\AL-MAPLAST\BibliotecaApplication\bin\Debug\WindowsFormApplication.exe.config
+C:\Users\Sapia\Desktop\AL-MAPLAST\BibliotecaApplication\obj\Debug\WindowsFormApplication.exe
+C:\Users\Sapia\Desktop\AL-MAPLAST\BibliotecaApplication\obj\Debug\WindowsFormApplication.pdb
+C:\Users\Sapia\Desktop\AL-MAPLAST\BibliotecaApplication\bin\Debug\WindowsFormApplication.exe
+C:\Users\Sapia\Desktop\AL-MAPLAST\BibliotecaApplication\bin\Debug\WindowsFormApplication.pdb
+C:\Users\Sapia\Desktop\AL-MAPLAST\BibliotecaApplication\obj\Debug\WindowsFormApplication.AdminProductosForm.resources
+C:\Users\Sapia\Desktop\AL-MAPLAST\BibliotecaApplication\obj\Debug\WindowsFormApplication.AdminClientesForm.resources
+C:\Users\Sapia\Desktop\AL-MAPLAST\BibliotecaApplication\obj\Debug\WindowsFormApplication.MainForm.resources
+C:\Users\Sapia\Desktop\AL-MAPLAST\BibliotecaApplication\obj\Debug\AlmaPLASTApplication.csproj.GenerateResource.Cache
+C:\Users\Sapia\Desktop\AL-MAPLAST\BibliotecaApplication\obj\Debug\WindowsFormApplication.ConsultaPedidosClientesForm.resources
+C:\Users\Sapia\Desktop\AL-MAPLAST\BibliotecaApplication\obj\Debug\WindowsFormApplication.ConsultaClientesConDeudaForm.resources
+C:\Users\Sapia\Desktop\AL-MAPLAST\BibliotecaApplication\obj\Debug\WindowsFormApplication.ConsultaPrestamosForm.resources
+C:\Users\Sapia\Desktop\AL-MAPLAST\BibliotecaApplication\obj\Debug\WindowsFormApplication.AdminStockProductos.resources
+C:\Users\Sapia\Desktop\AL-MAPLAST\BibliotecaApplication\obj\Debug\WindowsFormApplication.AdminVentasForm.resources
+C:\Users\Sapia\Desktop\AL-MAPLAST\BibliotecaApplication\obj\Debug\WindowsFormApplication.FormSeleccionarCliente.resources

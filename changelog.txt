@@ -1,0 +1,4 @@
+*hacer los SP para el persistidor de ventas y detalleventas
+*Hacer que genere ventas y descuente del stock
+*Desvincular la Vista con el acceso a datos
+*Setear Vendedores

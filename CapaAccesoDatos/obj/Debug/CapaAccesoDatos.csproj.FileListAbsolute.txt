@@ -1,0 +1,7 @@
+C:\Users\Sapia\Desktop\Proyetos\Activos\AL-MAPLAST\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Sapia\Desktop\Proyetos\Activos\AL-MAPLAST\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Sapia\Desktop\Proyetos\Activos\AL-MAPLAST\CapaAccesoDatos\bin\Debug\Entidades.dll
+C:\Users\Sapia\Desktop\Proyetos\Activos\AL-MAPLAST\CapaAccesoDatos\bin\Debug\Entidades.pdb
+C:\Users\Sapia\Desktop\Proyetos\Activos\AL-MAPLAST\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csprojResolveAssemblyReference.cache
+C:\Users\Sapia\Desktop\Proyetos\Activos\AL-MAPLAST\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\Sapia\Desktop\Proyetos\Activos\AL-MAPLAST\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
